@@ -3,3 +3,4 @@ turn your network into a #NobodysLand dominated battlefield. Designed For Kali L
 
 PROCEDURE FOR INSTALLING :
 $ sh install.sh
+$ bash NobodysLand.sh
